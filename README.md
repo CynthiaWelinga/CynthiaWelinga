@@ -11,3 +11,6 @@ Additionally:
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me: cyndyamina@gmail.com
 - 😄 Pronouns: she/her
+
+💌 Sign up for my <a href="https://cynthiawelinga.com/subscribe/">newsletter</a>
+
