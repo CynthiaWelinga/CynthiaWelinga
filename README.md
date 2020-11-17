@@ -6,7 +6,7 @@
 
 Hi🤓, I'm Cynthia! This is my digital playground. I'm learning about making contributions to open-source, creating impactful technology, and building a digital community. I am a software engineer at Morgan Stanley, a Blogger and a Writer and contribuitor at Columbia CORE. I write about data privacy, big data and technoculture.  
  
-### 🖥️ status: 
+### 🖥️ updates: 
 - 🌱 I’m currently learning Flutter
 - 📫 For enquiries: cyndyamina@gmail.com 
 - 😄 Pronouns: she/her
