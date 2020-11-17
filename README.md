@@ -15,6 +15,7 @@ Hi🤓, I'm Cynthia! This is my digital playground. I'm learning about making co
 - <a href="https://cynthiawelinga.com/218-2/">Government Surveillance in the Age of Protests</a>
 - 💌 Sign up for my <a href="https://cynthiawelinga.com/subscribe/">newsletter</a>
 
+### 🔧 technologies:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cynthiawelinga&layout=compact)](https://github.com/CynthiaWelinga/github-readme-stats)
 
 
