@@ -14,8 +14,9 @@ I mainly code in Python and SQL and have experience with Angular, Java, C#, C, C
 
 ### ✍🏾 blog posts:
 <!-- BLOG-POST-LIST:START -->
-- <a href="https://cynthiawelinga.com/218-2/">Government Surveillance in the Age of Protests</a>
 <!-- BLOG-POST-LIST:END -->
+
+- <a href="https://cynthiawelinga.com/218-2/">Government Surveillance in the Age of Protests</a>
 - 💌 Sign up for my <a href="https://cynthiawelinga.com/subscribe/">newsletter</a>
 
 ### 🔧 tools & technologies:
