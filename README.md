@@ -4,7 +4,7 @@
 
 ### Welcome!👋🏾 
 
-Hi🤓, I'm Cynthia! This is my digital playground. I'm learning about making contributions to open-source, creating impactful technology, and building a digital community. I am a software engineer at Morgan Stanley, a <a href="https://cynthiawelinga.com/">Blogger</a> and a Writer and contribuitor at Columbia CORE. I write about data privacy, big data and technoculture.  
+Hi🤓, I'm Cynthia! This is my digital playground. I'm learning about making contributions to open-source, creating impactful technology, and building a digital community. I am a software engineer at <a href="https://www.linkedin.com/in/cynthia-juma/">Morgan Stanley</a>, a <a href="https://cynthiawelinga.com/">Blogger</a> and a Writer and contribuitor at Columbia CORE. I write about data privacy, big data and technoculture.  
  
 ### 🖥️ updates: 
 - 🌱 I’m currently learning Flutter
