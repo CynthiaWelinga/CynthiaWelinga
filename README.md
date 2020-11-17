@@ -1,16 +1,13 @@
-### Hi there 👋
+<!--**CynthiaWelinga/CynthiaWelinga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<!--
-**CynthiaWelinga/CynthiaWelinga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Cynthia Welinga
 
-Here are some ideas to get you started:
+### Hi there👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Cynthia! Welcome to my digital coding playground. I'm learning about making contributions to open-source, creating impactful technology, and building a digital community. I am a software engineer at Morgan Stanley, a Blogger and a writer and contribuitor at Columbia CORE. 
+Interested in collaborating/getting to know me? Send me a message
+
+Additionally:
+- 🌱 I’m currently learning Flutter
+- 📫 How to reach me: cyndyamina@gmail.com
+- 😄 Pronouns: she/her
