@@ -13,7 +13,10 @@ I mainly code in Python and SQL and have experience with Angular, Java, C#, C, C
 - 😄 Pronouns: she/her
 
 ### ✍🏾 blog posts:
+- <a href="https://cynthiawelinga.com/is-your-iot-cool-or-creepy/">Is Your IoT Cool or Creepy?</a>
+- <a href="https://cynthiawelinga.com/understanding-section-230/">Understanding Section 230</a>
 - <a href="https://cynthiawelinga.com/218-2/">Government Surveillance in the Age of Protests</a>
+- <a href="https://cynthiawelinga.com/tech-articles/">more articles</a>
 
 - 💌 Sign up for my <a href="https://cynthiawelinga.com/subscribe/">newsletter</a>
 
