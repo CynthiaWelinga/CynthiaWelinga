@@ -21,5 +21,5 @@ I mainly code in Python and SQL and have experience with Angular, Java, C#, C, C
 - 💌 Sign up for my <a href="https://cynthiawelinga.com/subscribe/">newsletter</a>
 
 ### 🔧 tools & technologies:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cynthiawelinga&layout=compact)](https://github.com/CynthiaWelinga/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CynthiaWelinga&layout=compact)](https://github.com/CynthiaWelinga/github-readme-stats)
 
