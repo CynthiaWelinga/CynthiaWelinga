@@ -23,3 +23,6 @@ I mainly code in Python and SQL and have experience with Angular, Java, C#, C, C
 ### 🔧 tools & technologies:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CynthiaWelinga&layout=compact)](https://github.com/CynthiaWelinga/github-readme-stats)
 
+
+
+
