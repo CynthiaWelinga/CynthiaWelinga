@@ -30,3 +30,6 @@ I mainly code in Python and SQL and have experience with Angular, Java, C#, C, C
 
 
 
+
+
+
