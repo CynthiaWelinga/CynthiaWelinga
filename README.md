@@ -4,8 +4,10 @@
 
 ### Welcome!👋🏾 
 
-<p> Hi🤓, I'm Cynthia! This is my coding playground. I'm learning about making contributions to open-source, creating impactful technology, and building a digital community. I am a software engineer at <a href="https://www.linkedin.com/in/cynthia-juma/">Morgan Stanley</a>, a <a href="https://cynthiawelinga.com/">Blogger</a> and a Writer and contribuitor at Columbia CORE. </p>
-I mainly code in Python and SQL and have experience with Angular, Java, C#, C, C++, HTML & CSS and Scala, but I am always learning. I write about data privacy, big data and technoculture. I love music 🎼 & running 🏃🏾‍♀️!
+<p> I'm Cynthia! This is my coding playground. I'm learning about making contributions to open-source, creating impactful technology, and building a digital community. I am a software engineer at <a href="https://www.linkedin.com/in/cynthia-juma/">Morgan Stanley</a>, a <a href="https://cynthiawelinga.com/">Blogger</a> and a Technical Writer.</p>
+I mainly code in Python and SQL and have experience with Java, C++, HTML & CSS and Scala, but I am always learning. I write about data privacy, big data and technoculture. I love music 🎼 & running 🏃🏾‍♀️!
+
+#### I'll be sharing my work playlist and a link to my Strava :)
  
 ### 🖥️ quick overview: 
 - 🌱 I’m currently learning Flutter
