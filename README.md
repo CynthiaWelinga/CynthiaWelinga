@@ -4,12 +4,13 @@
 
 ### Welcome!👋🏾 
 
-<p> I'm Cynthia Welinga! This is my coding playground. I'm learning about making contributions to open-source, creating impactful technology, and building a digital community. I am a software engineer at <a href="https://www.linkedin.com/in/cynthia-juma/">Morgan Stanley</a>, a <a href="https://cynthiawelinga.com/">Blogger</a> and a Technical Writer.</p> I have been a Data Engineer for the past 4 years, working on engineering data pipelines and data platforms. I am currently transition into a GenAI developer role where I will focus on building vector databases for internal business functions.  
-I mainly code in Python and SQL and have experience with Java, C++, HTML & CSS and Scala. I am always learning new things. I write about data privacy, big data and technoculture. I love and listen to music during most of my free time & I enjoy running.
+<p> I'm Cynthia Welinga! This is my coding playground. I'm learning about making contributions to open-source, creating impactful technology, and building a digital community. I am a software engineer at <a href="https://www.linkedin.com/in/cynthia-juma/">Morgan Stanley</a>, a <a href="https://cynthiawelinga.com/">Blogger</a> and a Technical Writer.</p> 
+<p>I have been a Data Engineer for the past 4 years, working on engineering data pipelines and data platforms. I am currently transition into a GenAI developer role where I will focus on building vector databases for internal business functions.</p>
+<p>I code in Python and SQL and have experience with Java, C++, HTML & CSS and Scala. I am always learning new things. I write about data privacy, big data, technoculture and adventures of a 20-something Kenyan girl in New York City. I quite enjoy it all. I love and listen to music during most of my free time, specifically Reggae and Afrobeats, & I enjoy running.</p>
 
  
 ### 🖥️ Overview: 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning about GenAI & Orchestrating Vector Databases
 - 📫 For enquiries: cyndyamina@gmail.com 
 - 😄 Pronouns: she/her
 
