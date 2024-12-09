@@ -17,6 +17,8 @@
 ### ✍🏾 Articles:
 - <a href="https://cynthiawelinga.com/is-your-iot-cool-or-creepy/">Is Your IoT Cool or Creepy?</a>
 - <a href="https://cynthiawelinga.com/understanding-section-230/">Understanding Section 230</a>
+- <a href="https://cynthiawelinga.com/engineering-principles-from-running/">Engineering Principles from Running</a>
+- <a href="https://cynthiawelinga.com/big-data-cloud-computing/">Introduction to Big Data & Cloud Computing</a>
 - <a href="https://cynthiawelinga.com/218-2/">Government Surveillance in the Age of Protests</a>
 - <a href="https://cynthiawelinga.com/tech-articles/">more articles</a>
 
