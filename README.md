@@ -11,7 +11,7 @@
  
 ### 🖥️ Overview: 
 - 🌱 I’m currently learning about GenAI & Orchestrating Vector Databases
-- 📫 For enquiries: cyndyamina@gmail.com 
+- 📫 For enquiries: cynthiawelinga@gmail.com 
 - 😄 Pronouns: she/her
 
 ### ✍🏾 Articles:
